@@ -74,5 +74,4 @@ signed main()
         int ans=g(s);
         cout<<n-ans<<endl;
     }
-
 }
